@@ -40,7 +40,11 @@
     },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
+<<<<<<< HEAD
       "depth": 2,
+=======
+      "depth": 1,
+>>>>>>> 5ea4c3f86680853a8c87516a51e46b8b4d2072f5
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -225,7 +229,11 @@
     },
     "com.unity.xr.arfoundation": {
       "version": "6.1.1",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> 5ea4c3f86680853a8c87516a51e46b8b4d2072f5
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "2.0.0",
@@ -250,6 +258,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.xr.interaction.toolkit": {
       "version": "3.1.2",
       "depth": 0,
@@ -269,6 +278,11 @@
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.12",
       "depth": 1,
+=======
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.12",
+      "depth": 2,
+>>>>>>> 5ea4c3f86680853a8c87516a51e46b8b4d2072f5
       "source": "registry",
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
@@ -278,7 +292,11 @@
     },
     "com.unity.xr.management": {
       "version": "4.5.1",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> 5ea4c3f86680853a8c87516a51e46b8b4d2072f5
       "source": "registry",
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
@@ -289,6 +307,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.xr.oculus": {
       "version": "4.5.1",
       "depth": 0,
@@ -310,6 +329,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 5ea4c3f86680853a8c87516a51e46b8b4d2072f5
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
